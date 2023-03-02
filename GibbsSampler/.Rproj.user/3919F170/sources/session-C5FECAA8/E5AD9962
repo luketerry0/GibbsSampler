@@ -1,0 +1,27 @@
+{
+    "id": "E5AD9962",
+    "path": "~/Multivariate Statistics/Gibbs Sampler/Package/GibbsSampler/vignettes/assignment.Rmd",
+    "project_path": "vignettes/assignment.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1677769378636.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,1",
+        "scrollLine": "13",
+        "last_setup_crc32": "C5FECAA8ab57dd1e"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677769485,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677769485199,
+    "read_only": false,
+    "read_only_alternatives": []
+}
